@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{5786FA32-F5DA-4BE9-83D4-EC50F0F81689}|Default">
+  <MonoDevelop.Ide.ItemProperties.DrugManufacturing PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DrugManufacturing/Views/Drug/Update.cshtml">
+    <Files>
+      <File FileName="DrugManufacturing/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="DrugManufacturing/Views/Shared/_Layout.cshtml" Line="14" Column="45" />
+      <File FileName="DrugManufacturing/Views/Home/Index.cshtml" Line="15" Column="14" />
+      <File FileName="DrugManufacturing/Views/Drug/Update.cshtml" Line="32" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DrugManufacturing" expanded="True">
+            <Node name="DrugManufacturing" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Drug" expanded="True">
+                  <Node name="Update.cshtml" selected="True" />
+                </Node>
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="User" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
